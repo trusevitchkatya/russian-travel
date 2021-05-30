@@ -1,20 +1,19 @@
 .place {
     margin-bottom: 80px;
 }
-    
+
 .place:last-child {
     margin-bottom: 0;
 }
-    
- @media screen and (max-width: 1023px) {
+
+@media screen and (max-width: 1023px) {
     .place {
         margin-bottom: 73px;
     }
 }
-    
+
 @media screen and (max-width: 767px) {
     .place {
         margin-bottom: 50px;
     }
 }
-

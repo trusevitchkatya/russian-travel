@@ -11,5 +11,4 @@
 - CSS grid
 - CSS media
 
-
 https://trusevitchkatya.github.io/russian-travel/
